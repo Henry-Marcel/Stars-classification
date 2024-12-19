@@ -55,3 +55,16 @@ The model effectively classified all star categories with minimal error, leverag
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/stars-classification.git
+   
+2. Navigate to the project directory
+   ```bash
+   cd stars-classification
+   
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+4. Run the notebook:
+   ```bash
+   jupyter notebook notebooks/stars_classification.ipynb
+
