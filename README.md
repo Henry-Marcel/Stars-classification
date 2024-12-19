@@ -68,3 +68,8 @@ The model effectively classified all star categories with minimal error, leverag
    ```bash
    jupyter notebook notebooks/stars_classification.ipynb
 
+Contact
+Feel free to connect with me on:
+LinkedIn
+   
+
